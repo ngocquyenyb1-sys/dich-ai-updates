@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "0.5.6",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.6.apk",
-  "sha256": "0b1fe1a840827ead584317c03cbeed9c2c972c6276f16db7a192a2af51d44118",
-  "notes": "Sửa nút 🌐 không mở được khung dịch khi bàn phím đang mở · Đọc được tin tiếng Anh trong Zalo"
+  "versionCode": 12,
+  "versionName": "0.5.7",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.7.apk",
+  "sha256": "761b025ad04d1d6bb0704a786cf9cd0da4701bf705bb87f3a3843bf42770472c",
+  "notes": "WeChat: bấm 🌐 → AI đọc màn hình và dịch · Zalo: dịch được tin tiếng Anh có kèm giờ"
 }
