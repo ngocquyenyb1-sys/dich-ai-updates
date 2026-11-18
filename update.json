@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.5.9",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.9.apk",
-  "sha256": "2dc81f2fd1c2618dac329b7f54d8cd16d48093ba99a16a38c87a10bb6f28da6a",
-  "notes": "Phím 🌐 đổi bàn phím: phải giữ nửa giây, chạm nhẹ không đổi · Vào lại tin nhắn tự hiện khung dịch"
+  "versionCode": 15,
+  "versionName": "0.6.0",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.6.0.apk",
+  "sha256": "47835a26ec94d9aea3af03412c8161bda8fb393d137f3d95c786150f7428ae99",
+  "notes": "💬 Trả lời: chọn câu là tự vào ô chat, chỉ việc bấm Gửi · Phím 🌐 đổi bàn phím phải giữ nửa giây"
 }
