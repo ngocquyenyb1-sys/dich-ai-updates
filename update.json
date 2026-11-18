@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.0.apk",
-  "sha256": "7b730eb8bfbbbc2fe0d88089180e4ec9e99b5335fd1d13c0f615ef47dea67971",
-  "notes": "Nhanh hơn: model dịch nhanh tự chọn + giữ kết nối AI · Thông minh hơn: bàn phím tự trả lời đúng tiếng người gửi, gợi ý trả lời hiểu cả cuộc chat"
+  "versionCode": 23,
+  "versionName": "0.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.1.apk",
+  "sha256": "35cb9e961c8137c882f302df0645a3887cd28051302f5bfa42226b9d3fb592bf",
+  "notes": "Nút 🌐 luôn hiện trong app chat, dịch đều đặn không lúc có lúc không · Báo rõ đang dịch / lỗi"
 }
