@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.2.apk",
-  "sha256": "15169e18b42b10222a3cd1359d297907ff5e7c9c2c2e97add7cb9d9f127b2e6a",
-  "notes": "Dự đoán từ: 3 gợi ý khi gõ (Việt + Anh), gõ không dấu vẫn ra từ có dấu, gợi ý từ tiếp theo, học thói quen gõ"
+  "versionCode": 25,
+  "versionName": "0.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.3.apk",
+  "sha256": "0665de8b410c513488e8273a01f5d6693e3e2271632281df13718e63087267af",
+  "notes": "🧭 Nhận diện tình huống + tư vấn cách trả lời (chat và email) · 3 câu trả lời theo 3 chiến lược"
 }
