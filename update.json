@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.5.5",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.5.apk",
-  "sha256": "66be54fcd67b4ab701b587a21ee64c5c075f0265389ef2487f2c67c9c21b7045",
-  "notes": "Khung dịch nhận được tin tiếng Anh trong Zalo · Nút 🌐 hết nhấp nháy · Mở lại khung bằng nút 🌐"
+  "versionCode": 11,
+  "versionName": "0.5.6",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.6.apk",
+  "sha256": "0b1fe1a840827ead584317c03cbeed9c2c972c6276f16db7a192a2af51d44118",
+  "notes": "Sửa nút 🌐 không mở được khung dịch khi bàn phím đang mở · Đọc được tin tiếng Anh trong Zalo"
 }
