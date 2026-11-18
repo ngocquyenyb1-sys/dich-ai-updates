@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.1.apk",
-  "sha256": "35cb9e961c8137c882f302df0645a3887cd28051302f5bfa42226b9d3fb592bf",
-  "notes": "Nút 🌐 luôn hiện trong app chat, dịch đều đặn không lúc có lúc không · Báo rõ đang dịch / lỗi"
+  "versionCode": 24,
+  "versionName": "0.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.2.apk",
+  "sha256": "15169e18b42b10222a3cd1359d297907ff5e7c9c2c2e97add7cb9d9f127b2e6a",
+  "notes": "Dự đoán từ: 3 gợi ý khi gõ (Việt + Anh), gõ không dấu vẫn ra từ có dấu, gợi ý từ tiếp theo, học thói quen gõ"
 }
