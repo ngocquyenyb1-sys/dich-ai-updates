@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.2",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.2.apk",
-  "sha256": "58859d001603a165699a6146bb7e9692258d9dff4bffeb55acaf06214d0a8a21",
-  "notes": "Phím 🇻🇳/🇬🇧 · Nút tắt rung · Khung dịch chỉ dịch tiếng nước ngoài, có 🔊 Đọc và 💬 Gợi ý trả lời · Việc cần làm hiện ai đã nhận/đã xong"
+  "versionCode": 8,
+  "versionName": "0.5.3",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.3.apk",
+  "sha256": "f4a3bdd1197bd8a0b927648d8b052441b29d925ca7f48602b361f213a5bd886f",
+  "notes": "Nút 🌐 trên bàn phím + ô Cài đặt nhanh 'Khung dịch' để mở lại khung dịch · Bỏ nút VN/EN trùng · Có bản mới tự cuộn tới nút cập nhật"
 }
