@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.5.8",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.8.apk",
-  "sha256": "89ed983ada8b2fb3a55ff4d4467598b1180fe8bb2e2668adbb9a9efff5fb4e56",
-  "notes": "Vào lại tin nhắn là khung dịch tự hiện (cả WeChat) · Nút ✕ tắt hẳn tới khi bấm 🌐 bật lại"
+  "versionCode": 14,
+  "versionName": "0.5.9",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.5.9.apk",
+  "sha256": "2dc81f2fd1c2618dac329b7f54d8cd16d48093ba99a16a38c87a10bb6f28da6a",
+  "notes": "Phím 🌐 đổi bàn phím: phải giữ nửa giây, chạm nhẹ không đổi · Vào lại tin nhắn tự hiện khung dịch"
 }
