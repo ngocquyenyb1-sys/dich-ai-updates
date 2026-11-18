@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.6.4",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.6.4.apk",
-  "sha256": "a9a6482434a22193284611666d91fe8676c0597470060c58f34f571b18958b3d",
-  "notes": "Kéo lên/xuống dịch nhanh và mượt hơn (dịch ngay khi đang kéo, dịch sẵn tin sắp tới)"
+  "versionCode": 20,
+  "versionName": "0.6.5",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.6.5.apk",
+  "sha256": "79efc25d83f26290cf4f7d58a8099650c9532c9ca78a6bb8fe327ffa245114d5",
+  "notes": "Dịch nhanh hơn: AI không 'suy nghĩ' lâu khi dịch tin · Tự kiểm tra hiện thời gian AI trả lời"
 }
