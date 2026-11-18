@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.3.apk",
-  "sha256": "0665de8b410c513488e8273a01f5d6693e3e2271632281df13718e63087267af",
-  "notes": "🧭 Nhận diện tình huống + tư vấn cách trả lời (chat và email) · 3 câu trả lời theo 3 chiến lược"
+  "versionCode": 26,
+  "versionName": "0.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.4.apk",
+  "sha256": "05c6ffc22b80ab6728039764800c294c31671b46953febe266e4d4e1e9c769ac",
+  "notes": "Chống lỗi: AI chính lỗi tự chuyển AI dự phòng · Báo cáo tốc độ hằng tuần · Tự kiểm tra hiện tốc độ 7 ngày"
 }
