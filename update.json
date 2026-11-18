@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.6",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.6.6.apk",
-  "sha256": "93d7eab79b321d31cbe5c535b011219eb69dae888b96859823a1d67cbe23bcd7",
-  "notes": "WeChat: kéo tin là bản dịch đổi theo · Dịch nhanh hơn"
+  "versionCode": 22,
+  "versionName": "0.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.0.apk",
+  "sha256": "7b730eb8bfbbbc2fe0d88089180e4ec9e99b5335fd1d13c0f615ef47dea67971",
+  "notes": "Nhanh hơn: model dịch nhanh tự chọn + giữ kết nối AI · Thông minh hơn: bàn phím tự trả lời đúng tiếng người gửi, gợi ý trả lời hiểu cả cuộc chat"
 }
