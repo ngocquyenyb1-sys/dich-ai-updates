@@ -1,12 +1,12 @@
 {
-  "versionCode": 47,
-  "versionName": "0.9.8",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.8.apk",
+  "versionCode": 48,
+  "versionName": "0.9.9",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.9.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.8.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.9.apk"
   ],
-  "sha256": "b0e93aa7b4167d39e3d0a8c07f80064e509c4fdc7a61048f1491a7474a6c25b2",
-  "notes": "Giữ bản dịch khi thoát ra rồi vào lại ô đang viết",
+  "sha256": "f58e30ade592b9c9024aa3184e54aea73ee83b51ef601f556de916d3987b9a41",
+  "notes": "Thêm nút Gửi lỗi để báo lỗi nhanh cho nhà phát triển",
   "rollout": 100,
   "minVersionCode": 0
 }
