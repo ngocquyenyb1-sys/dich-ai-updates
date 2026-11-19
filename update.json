@@ -1,12 +1,12 @@
 {
-  "versionCode": 41,
-  "versionName": "0.9.2",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.2.apk",
+  "versionCode": 42,
+  "versionName": "0.9.3",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.3.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.2.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.3.apk"
   ],
-  "sha256": "c4dc7eecc551a1211aebe39c11153c7c59faf8f3da598bb797b5d84bedf31e3a",
-  "notes": "Nút mở nhanh Auto Blocker (Samsung) để tắt khi cập nhật bị chặn",
+  "sha256": "648473a9362f45c1fac3009f8b86d8b0ffc41b7cfbc1c102a65d40e7c6c6ea19",
+  "notes": "Sửa khung dịch email không đọc được nội dung thư",
   "rollout": 100,
   "minVersionCode": 0
 }
