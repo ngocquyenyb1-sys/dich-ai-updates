@@ -1,12 +1,12 @@
 {
-  "versionCode": 76,
-  "versionName": "0.9.37",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.37.apk",
+  "versionCode": 77,
+  "versionName": "0.9.38",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.38.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.37.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.38.apk"
   ],
-  "sha256": "9569626e2af318b8e23bee3b7b313102cc116ce7098d35dfe5360d3d527cfced",
-  "notes": "Email trực tiếp Outlook/Microsoft 365: dịch thư đầy đủ ở nền, gợi ý trả lời, lưu nháp Drafts",
+  "sha256": "da29d0d94420e6b3b2c775e7aa8eb6fa191cf1d3f5f34c6a241a4e28de3fb59f",
+  "notes": "Email trực tiếp: thêm Gmail / Google Workspace",
   "rollout": 100,
   "minVersionCode": 0
 }
