@@ -1,12 +1,12 @@
 {
-  "versionCode": 60,
-  "versionName": "0.9.21",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.21.apk",
+  "versionCode": 61,
+  "versionName": "0.9.22",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.22.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.21.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.22.apk"
   ],
-  "sha256": "06f0a695da48aa8758736ce8acffba6b8b8a46e7f265b44bb32159c069f05342",
-  "notes": "Dịch ảnh kèm gợi ý trả lời theo ý anh gõ",
+  "sha256": "5288902386f1b40c8a4ed60c6abca912d8acaf90f437ce99b1c185413fd9dc88",
+  "notes": "Dịch nhiều ảnh 1 lần + chọn nhanh hướng trả lời",
   "rollout": 100,
   "minVersionCode": 0
 }
