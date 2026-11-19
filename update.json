@@ -1,12 +1,12 @@
 {
-  "versionCode": 63,
-  "versionName": "0.9.24",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.24.apk",
+  "versionCode": 64,
+  "versionName": "0.9.25",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.25.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.24.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.25.apk"
   ],
-  "sha256": "413eb6221a52e8a805d8cb5e0df54736981442252c8f9e9e1ea9080afe38b1eb",
-  "notes": "Sửa email dài dịch mãi không xong",
+  "sha256": "68fc75ee64a1d34c0c10ddd0b1896856f587962ae7ed031d0d99f052adbb7d25",
+  "notes": "Sửa chữ lạ trong bản dịch; email dài cộng dồn bản dịch khi cuộn",
   "rollout": 100,
   "minVersionCode": 0
 }
