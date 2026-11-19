@@ -1,12 +1,12 @@
 {
-  "versionCode": 43,
-  "versionName": "0.9.4",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.4.apk",
+  "versionCode": 44,
+  "versionName": "0.9.5",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.5.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.4.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.5.apk"
   ],
-  "sha256": "40e8fe9d0c798a2fb2ef94bf701b42e842231a21872ca0dc653864ad2bbaa138",
-  "notes": "Sửa khung dịch email Outlook: AI đọc nội dung thư khi app không cho đọc chữ",
+  "sha256": "4e1229ebc0d3b6bdb7914e980ddd1546d18dea2d328bf834ab17d66b39a52dcf",
+  "notes": "Dịch nhanh hơn khi mở/kéo tin (WeChat, Outlook): model nhanh + nhớ màn hình đã đọc",
   "rollout": 100,
   "minVersionCode": 0
 }
