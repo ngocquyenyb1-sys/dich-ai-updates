@@ -59,11 +59,25 @@ Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (A
 **Bước 1 – Tải app:** 👉 [**Bấm vào đây để tải Keyboard AI (APK)**](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.10.apk)
 - Link dự phòng (nếu link trên chậm): [tải qua jsDelivr](https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.10.apk)
 
-**Bước 2 – Cho phép cài:**
-- Máy **Samsung**: Cài đặt › Bảo mật và quyền riêng tư › **Auto Blocker** › tắt (cài xong có thể bật lại; trong app có nút mở nhanh).
-- Mở file vừa tải → máy hỏi thì bấm **Cài đặt** › cho phép trình duyệt **"Cài ứng dụng không rõ nguồn"**.
-- Play Protect cảnh báo → **Vẫn cài đặt**.
-- Nếu hiện **"Đã chặn ứng dụng để bảo vệ thiết bị của bạn"** (chỉ có nút "Tôi hiểu"): mở **Cửa hàng Play** › ảnh đại diện (góc phải trên) › **Play Protect** › ⚙️ › tắt **"Quét ứng dụng bằng Play Protect"** → mở lại file APK để cài → cài xong **bật lại** công tắc đó. (Google chặn mọi app cài ngoài Play có dùng Trợ năng / đọc thông báo; Keyboard AI cần 2 quyền này để dịch trong khung chat.)
+**Bước 2 – Tắt chặn cài đặt (quan trọng, làm TRƯỚC khi mở file APK)**
+
+Điện thoại có 2 lớp chặn app cài ngoài CH Play. Keyboard AI cần quyền Trợ năng + đọc thông báo để dịch trong khung chat nên sẽ bị chặn nếu không tắt tạm:
+
+| | Lớp chặn | Cách tắt |
+|---|---|---|
+| 1 | **Auto Blocker** (chỉ máy Samsung: S25, S24, Z Fold/Flip…) | **Cài đặt** › **Bảo mật và quyền riêng tư** › **Auto Blocker** › **Tắt**. Nếu có mục **"Hạn chế tối đa"** cũng tắt. Không thấy thì gõ "Auto Blocker" vào ô tìm kiếm của Cài đặt. |
+| 2 | **Google Play Protect** (mọi máy Android) | Mở **CH Play** › bấm **ảnh đại diện** (góc phải trên) › **Play Protect** › **⚙️** (góc phải trên) › tắt **cả 2**: "Quét ứng dụng bằng Play Protect" và "Cải thiện việc phát hiện ứng dụng có hại". |
+
+Sau đó:
+- Nếu trước đó đã bị chặn: **xoá file APK cũ** trong Tệp đã tải xuống rồi **tải lại** bằng link ở Bước 1.
+- Mở file bằng app **Tệp của bạn (My Files)** › bấm file › **Cài đặt**. Máy hỏi "cho phép cài từ nguồn này" → bật **Cho phép**.
+
+**Dấu hiệu bị chặn:**
+- *"Đã chặn ứng dụng để bảo vệ thiết bị của bạn"* (chỉ có nút "Tôi hiểu") → chưa tắt Play Protect (lớp 2).
+- Thông báo có chữ *Auto Blocker* / *"Chặn cài ứng dụng từ nguồn không xác định"* → chưa tắt Auto Blocker (lớp 1).
+
+✅ **Cài xong nhớ BẬT LẠI cả 2** để máy vẫn được bảo vệ – app đã cài vẫn chạy bình thường.
+🔄 **Khi app báo có bản mới:** nếu bấm cập nhật mà không cài được, tắt tạm Auto Blocker (trong app có nút mở nhanh), cập nhật xong bật lại.
 
 **Bước 3 – Mở app Keyboard AI và bấm nút 👉 "Làm bước tiếp theo"** – app tự mở đúng màn hình cài đặt cho từng bước còn thiếu, có dòng "Còn N bước" để biết còn bao nhiêu:
 1. Bật bàn phím → 2. Chọn bàn phím → 3. Trợ năng (dịch trong khung chat) → 4. Đọc thông báo → 5. Hiện thông báo → 6. Cho chạy nền.
