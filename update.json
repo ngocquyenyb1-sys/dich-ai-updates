@@ -1,12 +1,12 @@
 {
-  "versionCode": 65,
-  "versionName": "0.9.26",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.26.apk",
+  "versionCode": 66,
+  "versionName": "0.9.27",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.27.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.26.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.27.apk"
   ],
-  "sha256": "2ade59905384042906f8bdaadae780060e96e25021c682aab4ad89004faaadf8",
-  "notes": "Gõ phím mượt: chữ to khi ấn, rung chắc tay hơn",
+  "sha256": "7789e8bf2e9af878e8f6160ff6ea78a25fcade1bdeeeb63a896cec58c742ef52",
+  "notes": "Ẩn/hiện phím đổi bàn phím",
   "rollout": 100,
   "minVersionCode": 0
 }
