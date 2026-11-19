@@ -1,12 +1,12 @@
 {
-  "versionCode": 68,
-  "versionName": "0.9.29",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.29.apk",
+  "versionCode": 69,
+  "versionName": "0.9.30",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.30.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.29.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.30.apk"
   ],
-  "sha256": "f5d52479a120b9975bbf7d745c46ccd9a824169525e3abf9f753cfff55e94246",
-  "notes": "Email: chỉ dịch tiêu đề + nội dung thư, bỏ chữ giao diện (nút Trả lời, Thêm phản ứng, dòng người nhận, email)",
+  "sha256": "39ba4ab3a51aa6dd9b964c3d5b0bd4e12353c9be9a032c47453fcf7940790b8c",
+  "notes": "Trực lỗi: dịch chậm tự gửi yêu cầu dự phòng song song; báo nguyên nhân + 1 chạm gửi báo cáo",
   "rollout": 100,
   "minVersionCode": 0
 }
