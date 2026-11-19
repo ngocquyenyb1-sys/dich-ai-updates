@@ -1,12 +1,12 @@
 {
-  "versionCode": 31,
-  "versionName": "0.7.9",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.9.apk",
+  "versionCode": 32,
+  "versionName": "0.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.8.0.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.7.9.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.8.0.apk"
   ],
-  "sha256": "174783b202c670bae8f983fd3cfef15cd97cb42edb3af95d0998b449b49fb74a",
-  "notes": "Mở app là tự hiện nút cập nhật khi có bản mới · Enter 1 lần dịch + gửi · Tự viết hoa tên riêng",
+  "sha256": "fc49d81451297fac4a2d562f8c1fe923a36faa230d7a06af0083ed9e26696245",
+  "notes": "🔑 Mã OTP từ SMS, email, ngân hàng, app hiện ngay trên bàn phím – chạm là điền",
   "rollout": 100,
   "minVersionCode": 0
 }
