@@ -1,12 +1,12 @@
 {
-  "versionCode": 53,
-  "versionName": "0.9.14",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.14.apk",
+  "versionCode": 54,
+  "versionName": "0.9.15",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.15.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.14.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.15.apk"
   ],
-  "sha256": "c42e9ffc580cf4c6d5922668630897ae28e285debb2b8372324ad40ef720e7a1",
-  "notes": "🎤 Nói tiếp không mất tin, chữ hiện ngay trong ô",
+  "sha256": "811b3d4a4e3899b31e6bdc2f3d31a25c0017fe4a2cc84634413283c38e4f4c2f",
+  "notes": "Bàn phím hoàn thiện: emoji, emoji từ ảnh, bộ nhớ tạm, mẫu câu, mẫu tin, dịch ảnh, chia đôi màn gập",
   "rollout": 100,
   "minVersionCode": 0
 }
