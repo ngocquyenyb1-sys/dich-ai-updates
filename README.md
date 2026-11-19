@@ -72,7 +72,7 @@ Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (A
 **Bước 4 – Lấy key AI** (chọn 1, trong app có nút 🔗 mở thẳng trang này):
 - ChatGPT: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
 - Gemini (có gói miễn phí): [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
-- Claude: [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
+- Claude: [platform.claude.com/settings/keys](https://platform.claude.com/settings/keys)
 
 Tạo key → sao chép → dán vào mục **2. Nhà cung cấp AI** trong app → **Lưu** → mục **Tự kiểm tra** để thử.
 
