@@ -1,12 +1,12 @@
 {
-  "versionCode": 40,
-  "versionName": "0.9.1",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.1.apk",
+  "versionCode": 41,
+  "versionName": "0.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.2.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.1.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.2.apk"
   ],
-  "sha256": "c35432c2df7a2b8084f614649e684787875fffaf2b6078e7e48404af266d63b1",
-  "notes": "Sửa nút bàn phím vẫn tiếng Anh khi chọn giao diện Tiếng Việt",
+  "sha256": "c4dc7eecc551a1211aebe39c11153c7c59faf8f3da598bb797b5d84bedf31e3a",
+  "notes": "Nút mở nhanh Auto Blocker (Samsung) để tắt khi cập nhật bị chặn",
   "rollout": 100,
   "minVersionCode": 0
 }
