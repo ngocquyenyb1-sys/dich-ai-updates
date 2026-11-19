@@ -1,12 +1,12 @@
 {
-  "versionCode": 74,
-  "versionName": "0.9.35",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.35.apk",
+  "versionCode": 75,
+  "versionName": "0.9.36",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.36.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.35.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.36.apk"
   ],
-  "sha256": "3cb7351c00ac15b0abc1ecb99e4e8a184bc197f92e2852258996e24dc410bb67",
-  "notes": "Đăng nhập bằng ChatGPT (dùng gói Plus/Pro); nút bật/tắt tiết kiệm token, mặc định dịch ngay khi gõ",
+  "sha256": "a18bda60b99d5ad4dc415fac991203be1ceb007daf328a2f0c012e6bbd8af921",
+  "notes": "Báo cáo chi phí AI cuối tháng (USD + VNĐ, dự kiến cả tháng)",
   "rollout": 100,
   "minVersionCode": 0
 }
