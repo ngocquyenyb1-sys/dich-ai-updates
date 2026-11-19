@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "0.7.6",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.6.apk",
+  "versionCode": 30,
+  "versionName": "0.7.8",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.7.8.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.7.6.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.7.8.apk"
   ],
-  "sha256": "036c6bf2992869328955cfdf6fcb02fc12736e9a0d364c2a3427a3235f63621e",
-  "notes": "Gemini dịch nhanh ổn định hơn với model mới (Gemini 3.5)",
+  "sha256": "30c78dbbcc6174ffb16971fe613cd3f936dd929db261c8a3eb641a5aadce82be",
+  "notes": "Enter 1 lần là dịch + gửi, hết giật · Thanh gợi ý từ luôn hiện · Tự viết hoa tên nước, thành phố, tên người",
   "rollout": 100,
   "minVersionCode": 0
 }
