@@ -3,7 +3,7 @@
 **Chat với khách nước ngoài bằng tiếng Việt, ngay trong Zalo, WeChat, WhatsApp, Messenger, Outlook, Gmail…**
 Gõ tiếng Việt → bấm Enter → app dịch rồi gửi. Tin khách gửi đến hiện bản dịch ngay trên màn hình.
 
-> Ứng dụng được tạo và phát triển bởi **Quin**.
+> Ứng dụng được tạo và phát triển bởi **Quin**. Miễn phí sử dụng · Mã nguồn không công khai.
 > Bản mới nhất: xem `update.json` · Tải APK: file `DichAI-<phiên bản>.apk` trong repo này.
 
 *[English below](#english)*
@@ -105,5 +105,7 @@ Download the latest `DichAI-<version>.apk` from this repository. On Android 13 a
 Screen text is read only to translate it, and is sent directly to the AI provider you choose. Password fields are never sent. No ads, no tracking.
 
 ---
+
+© 2026 Quin. Bảo lưu mọi quyền · All rights reserved. Free to use; source code is not public.
 
 Dictionary data: FrequencyWords by Hermit Dave (CC BY-SA 4.0).
