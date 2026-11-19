@@ -1,12 +1,12 @@
 {
-  "versionCode": 69,
-  "versionName": "0.9.30",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.30.apk",
+  "versionCode": 70,
+  "versionName": "0.9.31",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.31.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.30.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.31.apk"
   ],
-  "sha256": "39ba4ab3a51aa6dd9b964c3d5b0bd4e12353c9be9a032c47453fcf7940790b8c",
-  "notes": "Trực lỗi: dịch chậm tự gửi yêu cầu dự phòng song song; báo nguyên nhân + 1 chạm gửi báo cáo",
+  "sha256": "046a694928cc58821bbac1a2d68bdb61a965ab40d9d1d81da66e24c83be161f1",
+  "notes": "Bảng dịch: thêm nút 🔄 dịch lại thủ công khi cuộn email mà chưa tự dịch",
   "rollout": 100,
   "minVersionCode": 0
 }
