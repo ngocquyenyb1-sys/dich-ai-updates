@@ -63,6 +63,7 @@ Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (A
 - Máy **Samsung**: Cài đặt › Bảo mật và quyền riêng tư › **Auto Blocker** › tắt (cài xong có thể bật lại; trong app có nút mở nhanh).
 - Mở file vừa tải → máy hỏi thì bấm **Cài đặt** › cho phép trình duyệt **"Cài ứng dụng không rõ nguồn"**.
 - Play Protect cảnh báo → **Vẫn cài đặt**.
+- Nếu hiện **"Đã chặn ứng dụng để bảo vệ thiết bị của bạn"** (chỉ có nút "Tôi hiểu"): mở **Cửa hàng Play** › ảnh đại diện (góc phải trên) › **Play Protect** › ⚙️ › tắt **"Quét ứng dụng bằng Play Protect"** → mở lại file APK để cài → cài xong **bật lại** công tắc đó. (Google chặn mọi app cài ngoài Play có dùng Trợ năng / đọc thông báo; Keyboard AI cần 2 quyền này để dịch trong khung chat.)
 
 **Bước 3 – Mở app Keyboard AI và bấm nút 👉 "Làm bước tiếp theo"** – app tự mở đúng màn hình cài đặt cho từng bước còn thiếu, có dòng "Còn N bước" để biết còn bao nhiêu:
 1. Bật bàn phím → 2. Chọn bàn phím → 3. Trợ năng (dịch trong khung chat) → 4. Đọc thông báo → 5. Hiện thông báo → 6. Cho chạy nền.
