@@ -1,12 +1,12 @@
 {
-  "versionCode": 71,
-  "versionName": "0.9.32",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.32.apk",
+  "versionCode": 72,
+  "versionName": "0.9.33",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.33.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.32.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.33.apk"
   ],
-  "sha256": "95124fe0a7aaf794cb68a46c4ced6cbe846e183e69e2fd698fe707d102f86c68",
-  "notes": "Bản dịch hiện chữ dần (streaming); giao diện theo máy + màu theo hình nền",
+  "sha256": "4bb25a345f946d9563e86612cb8cd3e619b9bfcd225f11291be78383b01395a0",
+  "notes": "💳 Báo sắp hết tiền AI, chạm để nạp thêm",
   "rollout": 100,
   "minVersionCode": 0
 }

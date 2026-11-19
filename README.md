@@ -64,8 +64,8 @@ Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (A
 
 ## Cài đặt (Android 8 trở lên) – làm theo thứ tự, bấm link trên điện thoại
 
-**Bước 1 – Tải app:** 👉 [**Bấm vào đây để tải Keyboard AI (APK)**](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.32.apk)
-- Link dự phòng (nếu link trên chậm): [tải qua jsDelivr](https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.32.apk)
+**Bước 1 – Tải app:** 👉 [**Bấm vào đây để tải Keyboard AI (APK)**](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.33.apk)
+- Link dự phòng (nếu link trên chậm): [tải qua jsDelivr](https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.33.apk)
 
 **Bước 2 – Tắt chặn cài đặt (quan trọng, làm TRƯỚC khi mở file APK)**
 
@@ -135,7 +135,7 @@ Created and developed by **Quin**.
 Bring your own API key: OpenAI, Google Gemini, Anthropic Claude, or any OpenAI-compatible API. Companies can run a private backend so keys never sit on staff phones.
 
 ## Install
-Download the latest APK: [Keyboard AI APK](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.32.apk). On Android 13 and later, allow "restricted settings" for the app. Then tap 👉 "Next step" in the app – it opens each required settings screen in turn to enable the keyboard, notification access and accessibility. The app updates itself afterwards.
+Download the latest APK: [Keyboard AI APK](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.33.apk). On Android 13 and later, allow "restricted settings" for the app. Then tap 👉 "Next step" in the app – it opens each required settings screen in turn to enable the keyboard, notification access and accessibility. The app updates itself afterwards.
 
 ## Privacy
 Screen text is read only to translate it, and is sent directly to the AI provider you choose. Password fields are never sent. No ads, no tracking.
