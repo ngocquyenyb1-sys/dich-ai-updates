@@ -54,18 +54,30 @@ Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (A
 
 > Key chỉ lưu trên điện thoại của bạn, không nằm trong APK hay repo này. Chi phí AI tính theo lượt dùng của hãng bạn chọn.
 
-## Cài đặt (Android 8 trở lên)
+## Cài đặt (Android 8 trở lên) – làm theo thứ tự, bấm link trên điện thoại
 
-1. Tải file `DichAI-<phiên bản mới nhất>.apk` trong repo này.
-2. Máy Samsung: tạm tắt **Auto Blocker** (Cài đặt › Bảo mật và quyền riêng tư). Cho phép cài ứng dụng không rõ nguồn.
-3. Cài APK. Play Protect cảnh báo thì chọn **Vẫn cài đặt**.
-4. **Android 13 trở lên:** Cài đặt › Ứng dụng › Keyboard AI › ⋮ › **Cho phép cài đặt bị hạn chế**.
-5. Mở app, làm theo các bước ①②③: bật bàn phím, truy cập thông báo, Trợ năng và hiển thị trên app khác.
-6. Nhập key AI rồi vào mục **Tự kiểm tra**.
+**Bước 1 – Tải app:** 👉 [**Bấm vào đây để tải Keyboard AI (APK)**](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.9.apk)
+- Link dự phòng (nếu link trên chậm): [tải qua jsDelivr](https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.9.apk)
 
-Các bản sau tự cập nhật trong app (mục ⑧).
+**Bước 2 – Cho phép cài:**
+- Máy **Samsung**: Cài đặt › Bảo mật và quyền riêng tư › **Auto Blocker** › tắt (cài xong có thể bật lại; trong app có nút mở nhanh).
+- Mở file vừa tải → máy hỏi thì bấm **Cài đặt** › cho phép trình duyệt **"Cài ứng dụng không rõ nguồn"**.
+- Play Protect cảnh báo → **Vẫn cài đặt**.
 
-**Lưu ý:** một số app ngân hàng hoặc VNeID yêu cầu tắt Trợ năng. Tắt đi thì bàn phím vẫn dùng được, chỉ bảng dịch tự hiện tạm ngưng. App phát hành trực tiếp bằng APK, không qua Google Play.
+**Bước 3 – Mở app Keyboard AI và bấm nút 👉 "Làm bước tiếp theo"** – app tự mở đúng màn hình cài đặt cho từng bước còn thiếu, có dòng "Còn N bước" để biết còn bao nhiêu:
+1. Bật bàn phím → 2. Chọn bàn phím → 3. Trợ năng (dịch trong khung chat) → 4. Đọc thông báo → 5. Hiện thông báo → 6. Cho chạy nền.
+- ⚠️ **Android 13 trở lên**, nếu Trợ năng bị mờ / báo "Cài đặt bị hạn chế": bấm nút **"Mở Thông tin ứng dụng"** trong app › ⋮ (góc phải trên) › **Cho phép cài đặt bị hạn chế**, rồi bấm lại 👉.
+
+**Bước 4 – Lấy key AI** (chọn 1, trong app có nút 🔗 mở thẳng trang này):
+- ChatGPT: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
+- Gemini (có gói miễn phí): [aistudio.google.com/apikey](https://aistudio.google.com/apikey)
+- Claude: [console.anthropic.com/settings/keys](https://console.anthropic.com/settings/keys)
+
+Tạo key → sao chép → dán vào mục **2. Nhà cung cấp AI** trong app → **Lưu** → mục **Tự kiểm tra** để thử.
+
+**Xong!** Mở Zalo / WeChat / WhatsApp / Outlook để dùng. Các bản sau app tự cập nhật (mục ⑧).
+
+**Lưu ý:** một số app ngân hàng / VNeID yêu cầu tắt Trợ năng – tắt đi bàn phím vẫn dùng được, chỉ bảng dịch tự hiện tạm ngưng. App phát hành trực tiếp bằng APK, không qua Google Play. Gặp lỗi: trong app bấm **🐞 Gửi lỗi** (mục Tự kiểm tra).
 
 ## Quyền riêng tư
 
@@ -99,7 +111,7 @@ Created and developed by **Quin**.
 Bring your own API key: OpenAI, Google Gemini, Anthropic Claude, or any OpenAI-compatible API. Companies can run a private backend so keys never sit on staff phones.
 
 ## Install
-Download the latest `DichAI-<version>.apk` from this repository. On Android 13 and later, allow "restricted settings" for the app. Then follow steps ①②③ in the app to enable the keyboard, notification access and accessibility. The app updates itself afterwards.
+Download the latest APK: [Keyboard AI APK](https://github.com/ngocquyenyb1-sys/dich-ai-updates/raw/main/DichAI-0.9.9.apk). On Android 13 and later, allow "restricted settings" for the app. Then tap 👉 "Next step" in the app – it opens each required settings screen in turn to enable the keyboard, notification access and accessibility. The app updates itself afterwards.
 
 ## Privacy
 Screen text is read only to translate it, and is sent directly to the AI provider you choose. Password fields are never sent. No ads, no tracking.
