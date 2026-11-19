@@ -1,12 +1,12 @@
 {
-  "versionCode": 49,
-  "versionName": "0.9.10",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.10.apk",
+  "versionCode": 50,
+  "versionName": "0.9.11",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.11.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.10.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.11.apk"
   ],
-  "sha256": "8d670eee328101ad95c8c4b0b4f35e8702ca3795f40a98c567e9e434c5a3915f",
-  "notes": "Cài đặt dễ hơn: nút Làm bước tiếp theo, link lấy key AI",
+  "sha256": "9ed67919d2e8d072938fe057b5fc1745a37634e051b169e3b2d7ac07ec5d3256",
+  "notes": "Dịch tự nhiên, đúng ngữ pháp hơn (không dịch từng chữ)",
   "rollout": 100,
   "minVersionCode": 0
 }
