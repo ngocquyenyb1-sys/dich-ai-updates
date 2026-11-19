@@ -1,12 +1,12 @@
 {
-  "versionCode": 39,
-  "versionName": "0.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.0.apk",
+  "versionCode": 40,
+  "versionName": "0.9.1",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.1.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.0.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.1.apk"
   ],
-  "sha256": "93c089c26a994baee6faadf458ebec8cd329871a7b216d728d6c9b96a3bcf838",
-  "notes": "Đổi tên Keyboard AI · Giao diện Việt / English · Kéo tin nhắn hiện bản dịch nhanh hơn (nhớ bản dịch 7 ngày)",
+  "sha256": "c35432c2df7a2b8084f614649e684787875fffaf2b6078e7e48404af266d63b1",
+  "notes": "Sửa nút bàn phím vẫn tiếng Anh khi chọn giao diện Tiếng Việt",
   "rollout": 100,
   "minVersionCode": 0
 }
