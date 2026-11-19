@@ -1,12 +1,12 @@
 {
-  "versionCode": 42,
-  "versionName": "0.9.3",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.3.apk",
+  "versionCode": 43,
+  "versionName": "0.9.4",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.4.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.3.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.4.apk"
   ],
-  "sha256": "648473a9362f45c1fac3009f8b86d8b0ffc41b7cfbc1c102a65d40e7c6c6ea19",
-  "notes": "Sửa khung dịch email không đọc được nội dung thư",
+  "sha256": "40e8fe9d0c798a2fb2ef94bf701b42e842231a21872ca0dc653864ad2bbaa138",
+  "notes": "Sửa khung dịch email Outlook: AI đọc nội dung thư khi app không cho đọc chữ",
   "rollout": 100,
   "minVersionCode": 0
 }
