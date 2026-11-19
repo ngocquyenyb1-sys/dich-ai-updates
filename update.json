@@ -1,12 +1,12 @@
 {
-  "versionCode": 45,
-  "versionName": "0.9.6",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.6.apk",
+  "versionCode": 46,
+  "versionName": "0.9.7",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.7.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.6.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.7.apk"
   ],
-  "sha256": "3f991f39fab88eeac2986da96aa46cdb32c7ec4009761907c50fc50d33f1b447",
-  "notes": "Khung dịch hiện tên người nhắn trên mỗi tin",
+  "sha256": "07ef032a3282948e95a1f4882e0029ba3d0c2c37483db38b7331086611c003d5",
+  "notes": "Tự sửa chính tả theo ngữ cảnh hội thoại, không đổi ý câu",
   "rollout": 100,
   "minVersionCode": 0
 }
