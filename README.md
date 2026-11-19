@@ -81,7 +81,7 @@ Sau đó:
 
 **Bước 3 – Mở app Keyboard AI và bấm nút 👉 "Làm bước tiếp theo"** – app tự mở đúng màn hình cài đặt cho từng bước còn thiếu, có dòng "Còn N bước" để biết còn bao nhiêu:
 1. Bật bàn phím → 2. Chọn bàn phím → 3. Trợ năng (dịch trong khung chat) → 4. Đọc thông báo → 5. Hiện thông báo → 6. Cho chạy nền.
-- ⚠️ **Android 13 trở lên**, nếu Trợ năng bị mờ / báo "Cài đặt bị hạn chế": bấm nút **"Mở Thông tin ứng dụng"** trong app › ⋮ (góc phải trên) › **Cho phép cài đặt bị hạn chế**, rồi bấm lại 👉.
+- ⚠️ **Android 13 trở lên**, nếu bật Trợ năng mà hiện **"Ứng dụng đã bị từ chối cấp quyền"** (nút Đóng), hoặc Trợ năng bị mờ / báo "Cài đặt bị hạn chế": bấm nút **"Mở Thông tin ứng dụng"** trong app › ⋮ (góc phải trên) › **Cho phép cài đặt bị hạn chế**, rồi bấm lại 👉.
 
 **Bước 4 – Lấy key AI** (chọn 1, trong app có nút 🔗 mở thẳng trang này):
 - ChatGPT: [platform.openai.com/api-keys](https://platform.openai.com/api-keys)
