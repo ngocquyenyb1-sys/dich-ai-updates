@@ -1,12 +1,12 @@
 {
-  "versionCode": 51,
-  "versionName": "0.9.12",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.12.apk",
+  "versionCode": 52,
+  "versionName": "0.9.13",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.13.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.12.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.13.apk"
   ],
-  "sha256": "3c811442df3663bce8d18c7e51a62df5a353e8937666404930646a050071a8af",
-  "notes": "Sửa lỗi dịch nhầm tin tiếng Việt ngắn và tên người nhắn",
+  "sha256": "d262085998c770dd1b434fbd08fc5b8519b7aa46fca864b2878e2ef1d4de6a40",
+  "notes": "Thêm 🎤 nói để viết tin nhắn",
   "rollout": 100,
   "minVersionCode": 0
 }
