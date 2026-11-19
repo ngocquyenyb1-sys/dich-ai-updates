@@ -36,6 +36,14 @@ Người làm xuất khẩu, bán hàng, tìm nhà cung cấp phải chat cả n
 - **Ô mật khẩu:** gõ đúng từng ký tự, tắt Telex và AI.
 - Viết dở thoát ra rồi vào lại vẫn **giữ nguyên bản dịch**.
 
+### 😀 Bảng tiện ích (phím 😀 cạnh ?123)
+- **Emoji** theo nhóm + emoji vừa dùng; **🖼 Emoji của tôi** tạo từ ảnh (logo, sản phẩm…) – chạm là gửi.
+- **📋 Bộ nhớ tạm** 20 mục gần nhất (ghim được; không lưu mật khẩu, OTP, số thẻ).
+- **📌 Mẫu câu gõ tắt**: gõ `/stk`, `/cty`, `/cam` + cách → ra số tài khoản, thông tin công ty, câu cảm ơn…
+- **✉️ Mẫu tin theo tình huống**: báo giá, xác nhận PO, báo trễ hàng, nhắc cọc, gửi bản vẽ… – AI viết theo ý chính và cuộc chat, không bịa giá/ngày.
+- **📷 Chụp/chọn ảnh để dịch** bản vẽ, spec, báo giá (hoặc Chia sẻ ảnh → Keyboard AI) · **🔊 Đọc to** · **🎤 Nói để viết**.
+- Chỉnh **độ cao phím**, **chia đôi bàn phím khi mở màn gập (Galaxy Fold)**, giao diện **sáng/tối**.
+
 ### 🔔 Dịch thông báo
 Tin đến hiện thông báo có cả bản dịch và bản gốc, kèm nút **Trả lời (tự dịch)**.
 
@@ -111,6 +119,7 @@ Type in Vietnamese, press Enter, and the app translates and sends. Incoming mess
 Created and developed by **Quin**.
 
 ## Features
+- **Extras panel**: emoji, custom emoji from your photos, clipboard history, text shortcuts (/stk…), situation-based message templates, photo translation, read-aloud, voice typing, adjustable key height, split layout on foldables, light/dark theme.
 - **Floating translation panel** in chat and email apps. It appears automatically, shows the **sender's name** for each message and follows as you scroll. Screens you have already read show their translations instantly.
 - **Screenshot reading** for apps that hide their text, such as WeChat and Outlook mail bodies.
 - **Smart replies:** 3 suggested replies in the sender's language, plus situation detection (discount request, complaint, delay…) with advice.
