@@ -1,12 +1,12 @@
 {
-  "versionCode": 57,
-  "versionName": "0.9.18",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.18.apk",
+  "versionCode": 58,
+  "versionName": "0.9.19",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.19.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.18.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.19.apk"
   ],
-  "sha256": "e568b17d8cdeadbbafb106d2769cdb6ee5b64c7b4de3aa56e15a212093c32f19",
-  "notes": "Chia đôi bàn phím trên màn gập giống Samsung Z Fold",
+  "sha256": "c8a742743204f53267461b9276db54f787c434e733a2bc4add324cb6199ead9a",
+  "notes": "Bàn phím chia đôi: phím cách mỗi bên 1 nửa",
   "rollout": 100,
   "minVersionCode": 0
 }
