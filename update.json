@@ -1,12 +1,12 @@
 {
-  "versionCode": 81,
-  "versionName": "0.9.42",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.42.apk",
+  "versionCode": 82,
+  "versionName": "0.9.43",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.43.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.42.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.43.apk"
   ],
-  "sha256": "b65b00b438d13da546605de3eff3de92edfcfb4ced69392049c45ff005a5c7b0",
-  "notes": "Nút Bật lại khung dịch luôn hiện khi đang tắt; thông báo tạm tắt ở lại tới khi bật lại",
+  "sha256": "e7e97d87de0499f830e074d517c137b1f7930d346b7c09c7b3cbf5f250f41acb",
+  "notes": "Email nhiều người: dịch từng thư riêng, trả lời đúng người, lưu nháp đúng thư",
   "rollout": 100,
   "minVersionCode": 0
 }
