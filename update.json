@@ -1,12 +1,12 @@
 {
-  "versionCode": 82,
-  "versionName": "0.9.43",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.43.apk",
+  "versionCode": 83,
+  "versionName": "0.9.44",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.44.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.43.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.44.apk"
   ],
-  "sha256": "e7e97d87de0499f830e074d517c137b1f7930d346b7c09c7b3cbf5f250f41acb",
-  "notes": "Email nhiều người: dịch từng thư riêng, trả lời đúng người, lưu nháp đúng thư",
+  "sha256": "79d05e3e3b73a3f757c9c21cf2cc3a6b19c16b0ac021d9cb897896219a7eff4e",
+  "notes": "Sửa lỗi: mở lại chuỗi email (hộp thư kết nối) giờ hiện cả thư trả lời mới đến",
   "rollout": 100,
   "minVersionCode": 0
 }
