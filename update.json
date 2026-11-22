@@ -1,12 +1,12 @@
 {
-  "versionCode": 83,
-  "versionName": "0.9.44",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.44.apk",
+  "versionCode": 84,
+  "versionName": "0.9.45",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.45.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.44.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.45.apk"
   ],
-  "sha256": "79d05e3e3b73a3f757c9c21cf2cc3a6b19c16b0ac021d9cb897896219a7eff4e",
-  "notes": "Sửa lỗi: mở lại chuỗi email (hộp thư kết nối) giờ hiện cả thư trả lời mới đến",
+  "sha256": "4951ac9d09ed8cdc91f464516864b2aab3a83a5a2e6f56d70698d9cc1fecc732",
+  "notes": "Gemini dịch nhanh hơn (model không nhận 'minimal' dùng 'low'); tự chọn lại model nhanh khi model cũ bị gỡ",
   "rollout": 100,
   "minVersionCode": 0
 }
