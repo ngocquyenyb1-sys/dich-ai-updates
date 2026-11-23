@@ -10,6 +10,16 @@ Gõ tiếng Việt → bấm Enter → app dịch rồi gửi. Tin khách gửi 
 
 ---
 
+## Có gì mới
+
+**Bản 0.9.45 – 23/11/2026** (các thay đổi trong 3 tuần gần đây)
+- 📧 **Kết nối thẳng hộp thư Outlook / Gmail:** mở thư là có bản dịch cả thư; chuỗi thư nhiều người được tách từng thư, ghi rõ ai gửi; gợi ý trả lời đúng người và **lưu nháp** (không tự gửi).
+- 🔑 **Đăng nhập bằng tài khoản ChatGPT** (gói Go/Plus/Pro) thay cho key AI; báo cáo **chi phí AI theo tháng** bằng USD và VNĐ.
+- 🏦 Mở app ngân hàng / ví (Vietcombank, BIDV, MoMo…) → khung dịch **tự tạm tắt** để app ngân hàng không chặn, có nút bật lại nhanh.
+- 📷 Dịch **nhiều ảnh một lần** (email, tài liệu dài) rồi gợi ý trả lời đủ ý; 🎤 nói để viết tin nhắn.
+- ⌨️ Gõ phím mượt hơn: chữ to nổi lên khi ấn, rung 3 mức, bàn phím chia đôi trên Galaxy Fold; bản dịch hiện chữ dần khi AI đang viết.
+- ⚡ Dịch bằng Gemini nhanh hơn; thư dài và thư có trả lời mới được dịch đầy đủ, ổn định hơn.
+
 ## Vì sao làm app này
 
 Người làm xuất khẩu, bán hàng, tìm nhà cung cấp phải chat cả ngày với khách Mỹ, Trung, Hàn, Nhật… Mỗi tin nhắn lại phải copy sang Google Dịch rồi dán ngược về, vừa chậm vừa dễ sai ý. Keyboard AI đưa việc dịch vào **ngay bàn phím và màn hình chat**, nên không phải chuyển app.
@@ -22,6 +32,7 @@ Người làm xuất khẩu, bán hàng, tìm nhà cung cấp phải chat cả n
 - Kéo lên xem tin cũ thì bản dịch hiện theo. Đoạn đã dịch rồi hiện **tức thì**, không gọi AI lại.
 - App không cho đọc chữ (WeChat, thân thư Outlook): AI **đọc ảnh màn hình** để dịch.
 - Email dài: dịch toàn bộ thư, chia đoạn dịch song song cho nhanh.
+- **📧 Kết nối hộp thư Outlook / Gmail:** mở thư là dịch đủ cả thư, tách từng người trong chuỗi thư, gợi ý trả lời và lưu nháp đúng thư (không bao giờ tự gửi).
 - **💬 Trả lời:** AI gợi ý 3 câu trả lời theo đúng ngôn ngữ của khách, kèm nghĩa tiếng Việt và **🧭 nhận diện tình huống** (đòi giảm giá, khiếu nại, giục hàng…) cùng lời khuyên trước khi trả lời.
 
 ### ⌨️ Bàn phím tiếng Việt thông minh
@@ -58,7 +69,7 @@ AI nhận ra hẹn giao hàng, gửi báo giá, họp… trong tin nhắn và t�
 
 ## Chọn AI
 
-Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic)** hoặc AI chuẩn OpenAI (DeepSeek, Qwen, Grok, OpenRouter…). Doanh nghiệp có thể dùng **máy chủ riêng**, khi đó key không nằm trên điện thoại nhân viên.
+Dùng key API của chính bạn: **ChatGPT (OpenAI), Gemini (Google), Claude (Anthropic)** hoặc AI chuẩn OpenAI (DeepSeek, Qwen, Grok, OpenRouter…). Có gói ChatGPT Go/Plus/Pro thì **đăng nhập bằng ChatGPT**, không cần key. App có **báo cáo chi phí AI theo tháng**. Doanh nghiệp có thể dùng **máy chủ riêng**, khi đó key không nằm trên điện thoại nhân viên.
 
 > Key chỉ lưu trên điện thoại của bạn, không nằm trong APK hay repo này. Chi phí AI tính theo lượt dùng của hãng bạn chọn.
 
@@ -100,7 +111,7 @@ Tạo key → sao chép → dán vào mục **2. Nhà cung cấp AI** trong app 
 
 **Xong!** Mở Zalo / WeChat / WhatsApp / Outlook để dùng. Các bản sau app tự cập nhật (mục ⑧).
 
-**Lưu ý:** một số app ngân hàng / VNeID yêu cầu tắt Trợ năng – tắt đi bàn phím vẫn dùng được, chỉ bảng dịch tự hiện tạm ngưng. App phát hành trực tiếp bằng APK, không qua Google Play. Gặp lỗi: trong app bấm **🐞 Gửi lỗi** (mục Tự kiểm tra).
+**Lưu ý:** một số app ngân hàng / VNeID yêu cầu tắt Trợ năng – app **tự tạm tắt khung dịch** khi mở app ngân hàng/ví và có nút bật lại; bàn phím vẫn dùng bình thường. App phát hành trực tiếp bằng APK, không qua Google Play. Gặp lỗi: trong app bấm **🐞 Gửi lỗi** (mục Tự kiểm tra).
 
 ## Quyền riêng tư
 
@@ -117,6 +128,9 @@ Tạo key → sao chép → dán vào mục **2. Nhà cung cấp AI** trong app 
 Type in Vietnamese, press Enter, and the app translates and sends. Incoming messages are translated on screen as they arrive.
 
 Created and developed by **Quin**.
+
+## What's new
+**Version 0.9.45 – 23 Nov 2026:** direct Outlook / Gmail connection (whole-email translation, per-sender threads, reply drafts saved – never auto-sent), sign in with your ChatGPT plan instead of an API key, monthly AI cost report, auto-pause in banking apps, multi-photo translation, smoother typing and faster Gemini translation.
 
 ## Features
 - **Extras panel**: emoji, custom emoji from your photos, clipboard history, text shortcuts (/stk…), situation-based message templates, photo translation, read-aloud, voice typing, adjustable key height, split layout on foldables, light/dark theme.
