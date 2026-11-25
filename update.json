@@ -1,12 +1,12 @@
 {
-  "versionCode": 84,
-  "versionName": "0.9.45",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.45.apk",
+  "versionCode": 85,
+  "versionName": "0.9.46",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.46.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.45.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.46.apk"
   ],
-  "sha256": "4951ac9d09ed8cdc91f464516864b2aab3a83a5a2e6f56d70698d9cc1fecc732",
-  "notes": "Gemini dịch nhanh hơn (model không nhận 'minimal' dùng 'low'); tự chọn lại model nhanh khi model cũ bị gỡ",
+  "sha256": "56c7eb11af460dd50d5db9244e4fed104740c71442f9575a5241e7fa5060a6af",
+  "notes": "Android 17: nhắc tắt \"Bảo vệ nâng cao\" khi khung dịch không bật được Trợ năng",
   "rollout": 100,
   "minVersionCode": 0
 }
