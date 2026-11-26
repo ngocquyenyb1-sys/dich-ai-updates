@@ -1,12 +1,12 @@
 {
-  "versionCode": 86,
-  "versionName": "0.9.47",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.47.apk",
+  "versionCode": 87,
+  "versionName": "0.9.48",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.48.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.47.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.48.apk"
   ],
-  "sha256": "9b85a42b94835723ba988a9b1ce72ed41be4b1bcf948f89f19a24292158c18c5",
-  "notes": "Dịch tin chat nghe tự nhiên như người bản xứ (tiếng Trung khẩu ngữ WeChat, bỏ giọng máy dịch)",
+  "sha256": "b91989a3d6fdf310e79cebb4ceb980cb6031b394242387dd90d8eb8e2d2fc2d9",
+  "notes": "Dịch chat hiểu ngữ cảnh (trả lời đúng câu hỏi), tiếng Trung bỏ dấu 。 cuối tin",
   "rollout": 100,
   "minVersionCode": 0
 }
