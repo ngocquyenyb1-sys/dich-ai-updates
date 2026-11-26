@@ -1,12 +1,12 @@
 {
-  "versionCode": 89,
-  "versionName": "0.9.50",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.50.apk",
+  "versionCode": 90,
+  "versionName": "0.9.51",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.51.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.50.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.51.apk"
   ],
-  "sha256": "7e505cde1e355144b7b427f169a4c0b75d5cdd1a91366d5845130ffbdc26da29",
-  "notes": "Bảng dịch hiện hỏi–đáp hai bên, dịch nhanh hơn, nút bấm có phản hồi",
+  "sha256": "31c09114cd47d232d2b704ace8b61d4d63e1753f26e0dcd3dd0c8e395fe98399",
+  "notes": "Bảng dịch hiện pinyin dưới tin tiếng Trung để vừa đọc vừa học",
   "rollout": 100,
   "minVersionCode": 0
 }
