@@ -1,12 +1,12 @@
 {
-  "versionCode": 91,
-  "versionName": "0.9.52",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.52.apk",
+  "versionCode": 92,
+  "versionName": "0.9.53",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.53.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.52.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.53.apk"
   ],
-  "sha256": "8c2a471cfff1eb79622102fcd120755fe5629a5f9f93516609547d3aa11862b7",
-  "notes": "Dịch nhanh và đều hơn: tin mới nhất dịch trước, kết nối AI luôn sẵn sàng",
+  "sha256": "22f21cb0f77abb816c245f09ac9f4fccb09ddf511a2f0fcfb033457eb05771c6",
+  "notes": "Gói ChatGPT hết lượt 5 giờ/tuần → tự chuyển sang dùng khóa API đã dán như trước, hết đợt tự quay lại gói",
   "rollout": 100,
   "minVersionCode": 0
 }
