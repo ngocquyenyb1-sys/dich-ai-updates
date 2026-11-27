@@ -1,12 +1,12 @@
 {
-  "versionCode": 94,
-  "versionName": "0.9.55",
-  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.55.apk",
+  "versionCode": 95,
+  "versionName": "0.9.56",
+  "apkUrl": "https://raw.githubusercontent.com/ngocquyenyb1-sys/dich-ai-updates/main/DichAI-0.9.56.apk",
   "apkMirrors": [
-    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.55.apk"
+    "https://cdn.jsdelivr.net/gh/ngocquyenyb1-sys/dich-ai-updates@main/DichAI-0.9.56.apk"
   ],
-  "sha256": "4123f3bf8f8a04f43bb8563551dda77d73f5e04061e8ddb74d4d76aa7195b882",
-  "notes": "Sửa Enter ở ô tìm kiếm app Google / trình duyệt: tìm / vào web ngay",
+  "sha256": "48c356813fdd06c3e6e093becf033bb446a03b474a0a97a418ec9ab0a8e0bab2",
+  "notes": "↶Gốc ⇄ ↷Bản dịch; thanh trạng thái chỉ hiện bản dịch khi đúng ý",
   "rollout": 100,
   "minVersionCode": 0
 }
